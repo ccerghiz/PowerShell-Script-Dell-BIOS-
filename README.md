@@ -1,4 +1,3 @@
-# PowerShell-Script Dell BIOS
 # Dell BIOS Configuration Script
 
 ## Description
